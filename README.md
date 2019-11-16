@@ -2,6 +2,13 @@
 
 Code for the "Developing a Secure Soldier Monitoring System using Internet of Things and Blockchain" paper that was presented in the [5TH INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION (ICSC-2019)](http://www.jiit.ac.in/jiit/ICSC/ICSC19/).
 
+Presented by:
+* [Jitesh Pabla](jiteshpabla.github.io)
+* [Vaibhav Sharma](https://www.linkedin.com/in/vaibhavs825/)
+
+Professor/supervisor:
+* [Dr. K. Rajalakshmi](http://www.jiit.ac.in/dr-k-rajalakshmi)
+
 ### Hardware used
 
 * Computer / microcontroller board
