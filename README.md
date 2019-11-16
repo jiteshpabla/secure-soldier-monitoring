@@ -16,3 +16,15 @@ Code for the "Developing a Secure Soldier Monitoring System using Internet of Th
   * 20x4 LCD
   * LED
   * button
+
+
+### Diagrams
+
+1. Schematic diagram of the monitoring system
+![Schematic diagram of the monitoring system](https://github.com/jiteshpabla/secure-soldier-monitoring/blob/master/diagrams/1.png)
+
+2. Schematic diagram depicting transmission of data from a soldier module to a computer at base station via GSM
+![Schematic diagram depicting transmission of data from a soldier module to a computer at base station via GSM](https://github.com/jiteshpabla/secure-soldier-monitoring/blob/master/diagrams/2.png)
+
+3. Schematic diagrams depicting the data transmission of the entire system and storage in a Blockchain
+![Schematic diagrams depicting the data transmission of the entire system and storage in a Blockchain](https://github.com/jiteshpabla/secure-soldier-monitoring/blob/master/diagrams/3.png)
